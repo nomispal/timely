@@ -1,16 +1,26 @@
-# timely
+# Trackify - Calendar Application
 
-A new Flutter project.
+![Trackify Banner](https://via.placeholder.com/800x200.png?text=Trackify+Calendar+App)
 
-## Getting Started
+## Overview
+Trackify is a robust calendar application built to manage both simple and recurring events efficiently. It offers seamless event management with real-time synchronization across devices using Firebase Firestore. The app provides a smooth user experience with features like adding, editing, and deleting events, along with printing and filtering capabilities.
 
-This project is a starting point for a Flutter application.
+## Features
+- **Event Management**: Add, edit, and delete simple and recurring events with ease.
+- **Real-Time Sync**: Integrated with Firebase Firestore for real-time data synchronization across devices.
+- **Printing & Filtering**: Print tasks for specific dates, locations, and types, with options to filter events by date range and properties.
+- **Scalable & Stable**: Delivered with smooth animations, real-time updates, and improved stability by resolving Firestore deletion issues.
+- **Cross-Platform**: Built with Flutter for a consistent experience on both desktop and mobile devices.
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
+- **Flutter & Dart**: For cross-platform app development.
+- **Firebase Firestore**: For real-time database and event synchronization.
+- **PDF & Printing**: For generating and printing event reports.
+- **Share Plus**: For sharing event PDFs.
+- **Path Provider & Permission Handler**: For file storage and permissions on Android.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Setup Instructions
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/nomispal/Trackify.git
+   cd Trackify
