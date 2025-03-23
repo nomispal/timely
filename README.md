@@ -1,6 +1,9 @@
 # Trackify - Calendar Application
 
-![Trackify Banner](https://via.placeholder.com/800x200.png?text=Trackify+Calendar+App)
+![image](https://github.com/user-attachments/assets/dd54475a-f77f-4b37-bb1b-8e6b69a5b4b1)
+
+![image](https://github.com/user-attachments/assets/467d066e-e56d-419c-8c2e-7aa689522c12)
+
 
 ## Overview
 A Flutter application for managing events with features like recurring events, adding, editing, and deleting events, along with printing and filtering capabilities. Built with a clean UI and integrated with Firebase Firestore for data persistence.
